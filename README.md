@@ -17,7 +17,7 @@ Welcome to the **News Headline Category Classifier** — a sleek and powerful St
 
 ## Live Demo
 
-Try it now: [News_Headlines_Classifier](https://your-streamlit-app-link.streamlit.app)
+Try it now: [News_Headlines_Classifier](https://newsheadlinesclassifier.streamlit.app/)
 
 ---
 
